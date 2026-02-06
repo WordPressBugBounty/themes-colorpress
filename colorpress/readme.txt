@@ -2,10 +2,10 @@
 
 Contributors: Nayrathemes
 Requires at least: 4.7
-Tested up to: 6.8.1
+Tested up to: 6.9
 Requires PHP: 5.6
-Stable tag: 15.4
-Version: 15.4
+Stable tag: 17.2
+Version: 17.2
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: one-column, two-columns, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu,  custom-logo, featured-image-header, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, blog, photography, portfolio, editor-style, grid-layout
@@ -117,6 +117,60 @@ Info Hover, Smile, Shadow & All other Images have been used in images folder, Cr
 
 
 == Changelog ==
+
+@version 17.2
+* Block Style Fixed
+
+@version 17.1
+* Style Issue Fixed
+
+@version 17.0
+* Fixed Theme Unit Issue
+
+@version 16.9
+* Style Improvement
+
+@version 16.8
+* Style Improvement
+
+@version 16.7
+* Style Issue Fixed
+
+@version 16.6
+* Fixed Block Style Issue
+
+@version 16.5
+* Style Improvement
+
+@version 16.4
+* Tested WP 6.9 Compatibility
+
+@version 16.3
+* Block Embed Style Fixed
+
+@version 16.2
+* Style Improvement
+
+@version 16.1
+* Form Style Issue Fixed
+
+@version 16.0
+* Block Style Issue Fixed
+
+@version 15.9
+* Style Issue Fixed
+
+@version 15.8
+* Block Elements Style Fixed
+
+@version 15.7
+* Padding Fixed
+
+@version 15.6
+*  Style Issue Fixed
+
+@version 15.5
+* Latest WP Tested 6.8.3
 
 @version 15.4
 * Button Color Fixed
