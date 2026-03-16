@@ -3,7 +3,7 @@
 /**
  * Define Theme Version
  */
-define( 'COLORPRESS_THEME_VERSION', '17.7' );
+define( 'COLORPRESS_THEME_VERSION', '17.8' );
 
 function colorpress_css() {
 	$parent_style = 'gradiant-parent-style';
